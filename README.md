@@ -1,7 +1,7 @@
 # stellar-dapp
 
 ## Visão Geral
-Este projeto é um DApp (Aplicativo Descentralizado) construído na blockchain Stellar, desenvolvido para um hackathon. Atualmente implementa funcionalidades básicas de gerenciamento de contas na rede de testes (testnet) da Stellar.
+Este projeto é um DApp (Aplicativo Descentralizado) construído na blockchain Stellar. Atualmente implementa funcionalidades básicas de gerenciamento de contas na rede de testes (testnet) da Stellar.
 
 ## ✨ Funcionalidades Implementadas
 1. Criação Automática de Contas
